@@ -1,0 +1,12 @@
+2024-07-23 21:02:29,632 [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.18.0.3:5000
+2024-07-23 21:02:29,633 [33mPress CTRL+C to quit[0m
+2024-07-23 21:06:46,723 Page visited 1 times.
+2024-07-23 21:06:46,724 172.18.0.1 - - [23/Jul/2024 21:06:46] "GET / HTTP/1.1" 200 -
+2024-07-23 21:06:46,790 172.18.0.1 - - [23/Jul/2024 21:06:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2024-07-23 21:06:50,431 Page visited 2 times.
+2024-07-23 21:06:50,433 172.18.0.1 - - [23/Jul/2024 21:06:50] "GET / HTTP/1.1" 200 -
+2024-07-23 21:06:53,221 Page visited 3 times.
+2024-07-23 21:06:53,221 172.18.0.1 - - [23/Jul/2024 21:06:53] "GET / HTTP/1.1" 200 -
